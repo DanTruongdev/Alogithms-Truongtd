@@ -1,0 +1,14 @@
+D:\.TokyhaStudio\.NET\Algorithm\bin\Debug\net8.0\Algorithm.exe
+D:\.TokyhaStudio\.NET\Algorithm\bin\Debug\net8.0\Algorithm.deps.json
+D:\.TokyhaStudio\.NET\Algorithm\bin\Debug\net8.0\Algorithm.runtimeconfig.json
+D:\.TokyhaStudio\.NET\Algorithm\bin\Debug\net8.0\Algorithm.dll
+D:\.TokyhaStudio\.NET\Algorithm\bin\Debug\net8.0\Algorithm.pdb
+D:\.TokyhaStudio\.NET\Algorithm\obj\Debug\net8.0\Algorithm.GeneratedMSBuildEditorConfig.editorconfig
+D:\.TokyhaStudio\.NET\Algorithm\obj\Debug\net8.0\Algorithm.AssemblyInfoInputs.cache
+D:\.TokyhaStudio\.NET\Algorithm\obj\Debug\net8.0\Algorithm.AssemblyInfo.cs
+D:\.TokyhaStudio\.NET\Algorithm\obj\Debug\net8.0\Algorithm.csproj.CoreCompileInputs.cache
+D:\.TokyhaStudio\.NET\Algorithm\obj\Debug\net8.0\Algorithm.dll
+D:\.TokyhaStudio\.NET\Algorithm\obj\Debug\net8.0\refint\Algorithm.dll
+D:\.TokyhaStudio\.NET\Algorithm\obj\Debug\net8.0\Algorithm.pdb
+D:\.TokyhaStudio\.NET\Algorithm\obj\Debug\net8.0\Algorithm.genruntimeconfig.cache
+D:\.TokyhaStudio\.NET\Algorithm\obj\Debug\net8.0\ref\Algorithm.dll
